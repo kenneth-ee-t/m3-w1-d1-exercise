@@ -1,0 +1,15 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module",
+  "main": "server.js",
+  "scripts": {
+    "test": "git repository, keywords"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kenneth-ee-t"
+  },
+  "author": "",
+  "license": "ISC"
+}
